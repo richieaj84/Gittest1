@@ -1,0 +1,7 @@
+# Ignore Talend Project files #
+###############################
+.project
+.settings/
+sqlPatterns/
+talend.project
+code/routines/system/
